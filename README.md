@@ -30,7 +30,7 @@ The repository for this project includes a Jupyter notebook saved as .ipynb and 
 
 ### Medium Blog Post
 
-The technical details of the project and main insights from it are described in a Medium Blog post available here. 
+The technical details of the project and main insights from it are described in a Medium Blog post available [here](https://medium.com/@merwijas/bitcoin-daily-high-prediction-b7d98a433a07). 
 
 ### Licensing, Authors, Acknowledgements, etc.
 I'd like to acknowledge and thank Udacity for the project workspace and supporting materials.
