@@ -37,5 +37,7 @@ An XGBoost model was trained to use price patterns and technical indicators to p
 The technical details of the project and main insights from it are described in a Medium Blog post available [here](https://medium.com/@merwijas/bitcoin-daily-high-prediction-b7d98a433a07). 
 
 ### Licensing, Authors, Acknowledgements, etc.
-I'd like to acknowledge and thank Udacity for the project workspace and supporting materials.
+Yahoo Finance for providing Bitcoin price history 
+Alternative Me for providing Fear And Greed Index history
+I'd like to also acknowledge and thank Udacity for the project workspace, supporting materials, and awesome reviewers.
 
