@@ -15,7 +15,8 @@ Required Installations
 
 The project was built and run using the Anaconda distribution of Python and Jupyter notebooks.
 ### Project Motivation
-This project uses an XG-boost classification algorithm to predict Bitcoin daily price highs.
+The idea being explored by this project is the use of machine learning algorithms which recognize patterns for classification problems to identify patterns of Bitcoin prices associated with increases in the near term. Such a pattern recognition model would essentially use a technical analysis approach to price prediction as an alternative to the more common time-series models. This project uses an XG-boost classification algorithm to predict Bitcoin daily price highs.<br>
+
 The project components include:
 <ul>
 <li>An API call to download training data</li>
@@ -27,6 +28,9 @@ The project components include:
 
 ### Repository File Descriptions
 The repository for this project includes a Jupyter notebook saved as .ipynb and .html files and a csv file of historical bitcoin price data.
+
+### Results
+An XGBoost model was trained to use price patterns and technical indicators to predict if the subsequent day's Bitcoin price high will be higher than the current day. After optimization the model demonstrating an accuracy of 0.764 on test data. Additionally, insights regarding features of the data set and their predictive capabilities for classification type cryptocurrency models were derived in this study which could inform future projects concerning market price prediction.
 
 ### Medium Blog Post
 
